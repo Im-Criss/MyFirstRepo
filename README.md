@@ -1,3 +1,5 @@
 # MyFirstRepo
 
-Mi Primera constribucion local para GitHub
+Mi Primera contribución local para GitHub
+
+Un commit mas esta vez desde GitHub
